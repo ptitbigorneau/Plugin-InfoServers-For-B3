@@ -1,0 +1,13 @@
+<configuration plugin="infoservers">
+    <settings name="settings">
+<!--command qstat for linux "qstats" or debian /ubuntu "quakestat" 	for windows "C:\qstat-2.11-win32\qstat.exe"-->
+		<set name="commandqstat">quakestat</set>
+<!--min level required to use the infoservers command -->        
+	    <set name="userserverslevel">1</set>
+<!--min level required to use addservers and delservers command -->
+		<set name="admserverslevel">100</set>
+      	
+	</settings>
+
+
+</configuration>

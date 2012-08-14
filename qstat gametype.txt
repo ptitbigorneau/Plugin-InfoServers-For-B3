@@ -1,0 +1,83 @@
+-a2s		query Half-Life 2 new server
+-ams		query America's Army v2.x server
+-bfs		query BFRIS server
+-codm		query Call of Duty Master server
+-cods		query Call of Duty server
+-crs		query Command and Conquer: Renegade server
+-d3g		query Descent3 Gamespy Protocol server
+-d3m		query Descent3 Master (PXO) server
+-d3p		query Descent3 PXO protocol server
+-d3s		query Descent3 server
+-dm3m		query Doom 3 Master server
+-dm3s		query Doom 3 server
+-efm		query Star Trek: Elite Force server
+-efs		query Star Trek: Elite Force server
+-eye		query All Seeing Eye Protocol server
+-fcs		query FarCry server
+-gps		query Gamespy Protocol server
+-grs		query Ghost Recon server
+-gs2		query Gamespy V2 Protocol server
+-gs3		query Gamespy V3 Protocol server
+-gs4		query Gamespy V4 Protocol server
+-gsm		query Gamespy Master server
+-h2s		query Hexen II server
+-hl2s		query Half-Life 2 server
+-hla2s		query Half-Life server
+-hla2sm		query Steam Master server
+-hlm		query Half-Life Master server
+-hlqs		query Half-Life server
+-hls		query Half-Life server
+-hrs		query Heretic II server
+-hws		query HexenWorld server
+-jk3m		query Jedi Knight: Jedi Academy server
+-jk3s		query Jedi Knight: Jedi Academy server
+-kps		query Kingpin server
+-maqs		query Medal of Honor: Allied Assault (Q) server
+-mas		query Medal of Honor: Allied Assault server
+-mhs		query Medal of Honor: Allied Assault server
+-netp		query NetPanzer server
+-netpm		query NetPanzer Master server
+-nexuizm	query Nexuiz Master server
+-nexuizs	query Nexuiz server
+-preym		query Prey Master server
+-preys		query PREY server
+-prs		query Pariah server
+-q2m		query Quake II Master server
+-q2s		query Quake II server
+-q3m		query Quake III Master server
+-q3s		query Quake III: Arena server
+-q4m		query Quake 4 Master server
+-q4s		query Quake 4 server
+-qs		    query Quake server
+-qwm		query QuakeWorld Master server
+-qws		query QuakeWorld server
+-rss		query Ravenshield server
+-rwm		query Return to Castle Wolfenstein Master server
+-rws		query Return to Castle Wolfenstein server
+-sas		query Savage server
+-sfs		query Soldier of Fortune server
+-sgs		query Shogo: Mobile Armor Division server
+-sms		query Serious Sam server
+-sns		query Sin server
+-sof2m		query SOF2 Master server
+-sof2m1.0	query SOF2 Master (1.0) server
+-sof2s		query Soldier of Fortune 2 server
+-stm		query Steam Master server
+-stma2s		query Steam Master for A2S server
+-stmhl2		query Steam Master for HL2 server
+-t2m		query Tribes 2 Master server
+-t2s		query Tribes 2 server
+-tbm		query Tribes Master server
+-tbs		query Tribes server
+-tm		    query TrackMania server
+-tremulous	query Tremulous server
+-tremulousm	query Tremulous Master server
+-ts2		query Teamspeak 2 server
+-uns		query Unreal server
+-ut2004m	query UT2004 Master server
+-ut2004s	query UT2004 server
+-ut2s		query Unreal Tournament 2003 server
+-warsowm	query Warsow Master server
+-warsows	query Warsow server
+-woetm		query Enemy Territory Master server
+-woets		query Enemy Territory server
